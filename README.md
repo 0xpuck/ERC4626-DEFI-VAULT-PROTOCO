@@ -24,5 +24,3 @@ In the DeFi space, secure and efficient management of assets is paramount. The E
 ## Contributing
 
 Contributions to expand or improve the repository are welcome! 
-
-[@denizumutdereli](https://www.linkedin.com/in/denizumutdereli)
